@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/minesweeper/static/css/main.7707f508.chunk.css",
+    "main.js": "/minesweeper/static/js/main.4327d6ab.chunk.js",
+    "main.js.map": "/minesweeper/static/js/main.4327d6ab.chunk.js.map",
+    "runtime~main.js": "/minesweeper/static/js/runtime~main.dd26f679.js",
+    "runtime~main.js.map": "/minesweeper/static/js/runtime~main.dd26f679.js.map",
+    "static/js/2.38c043a7.chunk.js": "/minesweeper/static/js/2.38c043a7.chunk.js",
+    "static/js/2.38c043a7.chunk.js.map": "/minesweeper/static/js/2.38c043a7.chunk.js.map",
+    "index.html": "/minesweeper/index.html",
+    "precache-manifest.1f231df3a5cc3ba8c14305f5261aa4e2.js": "/minesweeper/precache-manifest.1f231df3a5cc3ba8c14305f5261aa4e2.js",
+    "service-worker.js": "/minesweeper/service-worker.js",
+    "static/css/main.7707f508.chunk.css.map": "/minesweeper/static/css/main.7707f508.chunk.css.map",
+    "static/media/index.css": "/minesweeper/static/media/SamsungSharpSans-Medium.e2e66006.woff"
+  }
+}
