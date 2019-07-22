@@ -1,5 +1,9 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Play the game here
+
+https://frontendjorge.github.io/minesweeper/
+
 ## Available Scripts
 
 In the project directory, you can run:
