@@ -69,7 +69,7 @@ addBtnRestart() {
         var containerBombIt = document.getElementById('container-bomb-it');
         var bombIt = document.getElementById('bomb-it');
         containerBombIt.removeChild(bombIt);
-        containerBombIt.innerHTML = "<img class='img-responsive center-block' src='../images/boom.gif' alt='BOOM'>";
+        containerBombIt.innerHTML = "<img class='img-responsive center-block' src='images/boom.gif' alt='BOOM'>";
        
     }
 
